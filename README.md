@@ -1,6 +1,6 @@
-# Bryce Nishimaki 
+## Hello there! 👋
 
-**Hello and welcome! I'm Bryce, an aspiring programmer and currently a second year CS student at UCI. Although many shy away from the technical mess that is coding, I love the problem solving aspect that comes with designing and creating a program. From concept to inception, figuring out how everything should work, and then making everything work, in a project is like solving a complex puzzle. Although I don't have much in terms of a portfolio at the moment, that will soon change!**
+**I'm Bryce, an aspiring programmer and currently a second year CS student at UCI. Although many shy away from the technical mess that is coding, I love the problem solving aspect that comes with designing and creating a program. From concept to inception, figuring out how everything should work, and then making everything work, in a project is like solving a complex puzzle. Although I don't have much in terms of a portfolio at the moment, that will soon change!**
 
 
 #### Known Languages:
