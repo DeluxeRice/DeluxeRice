@@ -15,7 +15,7 @@
   - Javascript
   
 #### Contacts:
-<a href = "mailto:brycewu6@gmail.com" target = "blank_">
+<a href = "mailto:brycew2@uci.edu" target = "blank_">
   <img align = "left" alt = "email" src = "https://mail.google.com/favicon.ico" width = "25px">
 </a>  
 <a href = "https://discordapp.com/users/178345093961482241" target = "blank_">
