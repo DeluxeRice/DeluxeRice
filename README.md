@@ -18,7 +18,7 @@
 <a href = "mailto:brycewu6@gmail.com" target = "blank_">
   <img align = "left" alt = "email" src = "https://mail.google.com/favicon.ico" width = "25px">
 </a>  
-<a href = "discordapp.com/users/178345093961482241" target = "blank_">
+<a href = "https://discordapp.com/users/178345093961482241" target = "blank_">
   <img align = "left" alt = "discord" src = "https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" width = "25px">
 </a>
 <!--
