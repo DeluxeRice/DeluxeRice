@@ -16,10 +16,10 @@
   
 #### Contacts:
 <a href = "mailto:brycew2@uci.edu" target = "blank_">
-  <img align = "left" alt = "email" src = "https://mail.google.com/favicon.ico" width = "25px">
+  <img align = "left" alt = "Bryce's Email" src = "https://mail.google.com/favicon.ico" width = "25px">
 </a>  
 <a href = "https://discordapp.com/users/178345093961482241" target = "blank_">
-  <img align = "left" alt = "discord" src = "https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png" width = "25px">
+  <img align = "left" alt = "Bryce's Discord" src = "https://discord.gg/favicon.ico" width = "25px">
 </a>
 <!--
 **DeluxeRice/DeluxeRice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
