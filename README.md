@@ -1,20 +1,20 @@
-## Hello there! 👋
+## Hello there! 🐄
 
 **I'm Bryce, an aspiring programmer and currently a second year CS student at UCI. Although coding can be a mess sometimes, I love the problem solving aspect that comes with designing and creating a program. From conception to inception, figuring out how everything should work, and then making everything work, is like solving and building a puzzle at the same time. Although I don't have much in terms of a portfolio at the moment, I'm working on it. So stay tuned!**
 
 
-#### Known Languages:
+#### 📖 Known Languages:
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width = "12px"> Python </img>
 
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width = "12px"> C++ </img>
 
-#### I'm currently learning:
+#### 🌱 I'm currently learning:
   - HTML
   - CSS
   - Javascript
   
-#### Contacts:
+#### 📬 Contacts:
 <a href = "mailto:brycew2@uci.edu" target = "blank_">
   <img align = "left" alt = "Bryce's Email" src = "https://mail.google.com/favicon.ico" width = "25px">
 </a>  
