@@ -15,11 +15,7 @@
 <img src = "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "12px"> Javascript </img>
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width = "12px"> React </img>
-#### 🌱 I'm currently learning:
-  - HTML
-  - CSS
-  - Javascript
-  
+
 #### 📬 Contacts:
 <a href = "mailto:brycew2@uci.edu" target = "blank_">
   <img align = "left" alt = "Bryce's Email" src = "https://mail.google.com/favicon.ico" width = "25px">
