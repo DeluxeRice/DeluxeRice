@@ -1,6 +1,6 @@
 ## Hello there! 🐄
 
-**I'm Bryce, an aspiring programmer and currently a second year CS student at UCI. Although coding can be a mess sometimes, I love the problem solving aspect that comes with designing and creating programs. Programming is like trying to solve a puzzle while you're designing it, and I love it. Although I don't have much in terms of a portfolio at the moment, I'm working on it. So stay tuned!**
+**I'm Bryce, an aspiring programmer and currently a third year CS student at UCI. Although coding can be a mess sometimes, I love the problem solving aspect that comes with designing and creating programs. Programming is like trying to solve a puzzle while you're designing it, and I love it. Although I don't have much in terms of a portfolio at the moment, I'm working on it. So stay tuned!**
 
 
 #### 📖 Skills:
