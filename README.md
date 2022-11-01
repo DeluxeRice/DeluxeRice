@@ -6,7 +6,7 @@
 
 **Although I don't have much in terms of a portfolio at the moment, I'm working on it. So stay tuned!**
 
-**For now, check out the website I made for <a href = https://kendoclubatuci.com <a> Kendo Club at UCI!</a>**
+**For now, check out the website I made for <a href = https://kendoclubatuci.com> Kendo Club at UCI!</a>**
 
 
 #### 📖 Skills:
