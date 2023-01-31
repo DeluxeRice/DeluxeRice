@@ -4,7 +4,7 @@
 
 **I love the problem solving aspect that comes with designing and creating programs.**
 
-**For now, check out the website I made for <a href = https://kendoclubatuci.com> Kendo Club at UCI!</a>**
+**Check out the website I made for <a href = https://kendoclubatuci.com> Kendo Club at UCI!</a>**
 
 
 #### 📖 Skills:
